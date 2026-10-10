@@ -18,3 +18,4 @@
 ## Projeler
 
 - [maintenance](https://github.com/mehmetttry/maintenance): bakım ve stok yönetim sistemi. FastAPI, SQL Server ve Streamlit ile yazıldı; bakım talepleri, iş emirleri, yedek parça stoğu ve satınalma emirleri için API ve arayüz içeriyor.
+- [english-coach](https://github.com/mehmetttry/english-coach): Windows için İngilizce konuşma pratiği uygulaması (Flutter). Konuşma tanıma, telaffuz değerlendirme, flashcard ve yerel SQLite verisi. Sağlayıcı anahtarlarını istemciden uzak tutan bir Node.js proxy içerir.
